@@ -1,0 +1,15 @@
+C:\Users\R41PC\Documents\vaurel\Praktikum28Juli\bin\Debug\net6.0\Praktikum28Juli.exe
+C:\Users\R41PC\Documents\vaurel\Praktikum28Juli\bin\Debug\net6.0\Praktikum28Juli.deps.json
+C:\Users\R41PC\Documents\vaurel\Praktikum28Juli\bin\Debug\net6.0\Praktikum28Juli.runtimeconfig.json
+C:\Users\R41PC\Documents\vaurel\Praktikum28Juli\bin\Debug\net6.0\Praktikum28Juli.dll
+C:\Users\R41PC\Documents\vaurel\Praktikum28Juli\bin\Debug\net6.0\Praktikum28Juli.pdb
+C:\Users\R41PC\Documents\vaurel\Praktikum28Juli\obj\Debug\net6.0\Praktikum28Juli.csproj.AssemblyReference.cache
+C:\Users\R41PC\Documents\vaurel\Praktikum28Juli\obj\Debug\net6.0\Praktikum28Juli.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\R41PC\Documents\vaurel\Praktikum28Juli\obj\Debug\net6.0\Praktikum28Juli.AssemblyInfoInputs.cache
+C:\Users\R41PC\Documents\vaurel\Praktikum28Juli\obj\Debug\net6.0\Praktikum28Juli.AssemblyInfo.cs
+C:\Users\R41PC\Documents\vaurel\Praktikum28Juli\obj\Debug\net6.0\Praktikum28Juli.csproj.CoreCompileInputs.cache
+C:\Users\R41PC\Documents\vaurel\Praktikum28Juli\obj\Debug\net6.0\Praktikum28Juli.dll
+C:\Users\R41PC\Documents\vaurel\Praktikum28Juli\obj\Debug\net6.0\refint\Praktikum28Juli.dll
+C:\Users\R41PC\Documents\vaurel\Praktikum28Juli\obj\Debug\net6.0\Praktikum28Juli.pdb
+C:\Users\R41PC\Documents\vaurel\Praktikum28Juli\obj\Debug\net6.0\Praktikum28Juli.genruntimeconfig.cache
+C:\Users\R41PC\Documents\vaurel\Praktikum28Juli\obj\Debug\net6.0\ref\Praktikum28Juli.dll

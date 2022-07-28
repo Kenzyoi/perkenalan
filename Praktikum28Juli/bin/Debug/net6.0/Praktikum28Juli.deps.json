@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Praktikum28Juli/1.0.0": {
+        "runtime": {
+          "Praktikum28Juli.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Praktikum28Juli/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
